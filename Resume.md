@@ -37,6 +37,7 @@
 - UV unwrapping, texture generation/painting, and mapping
 - Modular mesh & texture creation designed for random procedural level generation and object placement
 - Puzzle concepts
+
 <br>
 <br>
 
