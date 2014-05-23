@@ -11,7 +11,7 @@
 - **Blender** - Modular meshes & textures; UV unwrapping; level design; character modeling
 - **Unity** - Level concepts & design; asset placement; lighting
 - **Sculptris** - 3d concepts; low & high poly environment & character mesh creation, manipulation, and texturing
-- **Zbrush** - character & environment mesh creation, manipulation, texturing, retopologizing meshes
+- **Zbrush** - character & environment mesh creation, manipulation, texturing; retopologizing meshes
 - **Terragen** - Skybox creation 
 
 ### 2d: 
