@@ -8,9 +8,10 @@
 ### 3d: 
 
 -	**Valve Hammer Editor** - CSGO level design
-- **Blender** - Modular meshes & textures; UV unwrapping; level design
+- **Blender** - Modular meshes & textures; UV unwrapping; level design; character modeling
 - **Unity** - Level concepts & design; asset placement; lighting
-- **Sculptris** - 3d concepts; low & high poly-count environmental mesh creation, manipulation, and texturing
+- **Sculptris** - 3d concepts; low & high poly environment & character mesh creation, manipulation, and texturing
+- **Zbrush** - character & environment mesh creation, manipulation, texturing; retopologizing meshes
 - **Terragen** - Skybox creation 
 
 ### 2d: 
